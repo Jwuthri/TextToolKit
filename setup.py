@@ -10,7 +10,7 @@ setup(
     include_package_data=True,
     zip_safe=False,
     install_requires=[
-        "tensorflow-gpu==2.1.1",
+        "tensorflow-gpu==2.3.1",
         "tensorflow-hub==0.7.0",
         "tensorflow-text==2.1.1",
         "autocorrect==2.0.0",
